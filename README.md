@@ -1,10 +1,10 @@
 # spelndor_pei
-Le jeu splondor implémenté en java dans le cadre d'un exercice universitaire.
+Le jeu splendor implémenté en java dans le cadre d'un exercice universitaire.
 
 ## Objectif :
-Implémentation du jeu fonctionnelle avec tout ses aspect sans ui. L'implémentation de bot capable de jouer contre d'autre robots ou contre le joueur lui même avec une dificulté variable.
+Implémentation du jeu fonctionnel avec tout ses aspect sans ui. L'implémentation de robots capables de jouer contre d'autre robots ou contre le joueur lui même avec une difficulté variable (nombre de robots).
 
-## Avencement du projet :
+## Avancement du projet :
 - Création de partie possible avec seed des cartes généré aléatoiremeent
 - Affichage graphique du plateau de jeu fonctionnel
 - Possibilitée de jouer au jeu avec des règles facilitant l'implémentation c.à.d. absence de carte noble ainsi que de jetons or
